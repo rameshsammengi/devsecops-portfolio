@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramesh Sammengi
 
-📍 India &nbsp;|&nbsp; 📧 ramesh.sammengi@gmail.com &nbsp;|&nbsp; ☎️ +91-8919531966 / 9848622874  
+📍 India &nbsp;|&nbsp; 📧 ramesh.sammengi@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/ramesh-babu-sammengi-63a0a1b4/) &nbsp;|&nbsp; [GitHub](https://github.com/rameshsammengi)
 
 ---
@@ -16,7 +16,7 @@ _Targeting DevSecOps Architect / Cloud Security Engineer roles in product-driven
 
 ## 🛠️ Skills
 
-AWS Security, DevSecOps, Terraform, GitHub Actions, Docker, Kubernetes, Trivy, ScoutSuite, Prowler, IAM, CloudTrail, GuardDuty, CI/CD Security, Secrets Scanning, Checkov, Kyverno, SonarQube, OPA, SAST/SCA, OWASP
+AWS Security, DevSecOps, Terraform, GitHub Actions, Docker, Kubernetes, Trivy, ScoutSuite, Prowler, IAM, CloudTrail, GuardDuty, CI/CD Security, Secrets Scanning, Checkov, Kyverno, SonarQube, OPA, SAST
 
 ---
 
@@ -31,7 +31,7 @@ AWS Security, DevSecOps, Terraform, GitHub Actions, Docker, Kubernetes, Trivy, S
 
 ## 🚀 DevSecOps Projects
 
-### [Secure Terraform CI/CD Pipeline](https://github.com/rameshsammengi/GitHub_README_DevSecOps_Template)
+### [Secure Terraform CI/CD Pipeline](https://github.com/rameshsammengi/devsecops-portfolio)
 _Automated static code analysis and vulnerability scanning in IaC pipeline_  
 **Tools:** Terraform, GitHub Actions, Checkov, Trivy, Gitleaks
 
@@ -42,9 +42,9 @@ _Automated static code analysis and vulnerability scanning in IaC pipeline_
 - Reports generated and uploaded as artifacts.
 
 **Outcomes:**  
-Prevented IaC misconfigurations before deployment.  
-Integrated DevSecOps tools into CI/CD.  
-Enhanced compliance with CIS Benchmarks.
+- Prevented IaC misconfigurations before deployment.  
+- Integrated DevSecOps tools into CI/CD.  
+- Enhanced compliance with CIS Benchmarks.
 
 ---
 
